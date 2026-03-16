@@ -65,6 +65,5 @@ print("Corrected Codeword :", " ".join(map(str, corrected)))
 
 <img width="607" height="721" alt="image" src="https://github.com/user-attachments/assets/acfd14f8-5991-406d-a7f4-eb73b29212b5" />
 
-
 # Results
 Thus linear block code operation for the given input is successfully verified.
