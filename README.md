@@ -65,7 +65,4 @@ print("Corrected Codeword :", " ".join(map(str, corrected)))
 
 
 # Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+Thus linear block code operation for the given input is successfully verified.
