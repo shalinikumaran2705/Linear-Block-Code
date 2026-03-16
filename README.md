@@ -63,6 +63,5 @@ print("Corrected Codeword :", " ".join(map(str, corrected)))
 ```
 # Output 
 
-
 # Results
 Thus linear block code operation for the given input is successfully verified.
