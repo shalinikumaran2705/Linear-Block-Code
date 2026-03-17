@@ -1,3 +1,5 @@
+# Name : Shalini K
+# Register Number : 212224060244
 # Linear-Block-Code
 # Aim
 Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
@@ -63,7 +65,7 @@ print("Corrected Codeword :", " ".join(map(str, corrected)))
 ```
 # Output 
 
-<img width="607" height="721" alt="image" src="https://github.com/user-attachments/assets/acfd14f8-5991-406d-a7f4-eb73b29212b5" />
+<img width="495" height="697" alt="image" src="https://github.com/user-attachments/assets/edc4dd37-f621-4df0-9f0f-8225812a4c0b" />
 
 # Results
 Thus linear block code operation for the given input is successfully verified.
